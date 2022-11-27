@@ -6,3 +6,4 @@ A data visualization project that focuses on finding patterns in NYC restaurants
 
 <img width="700" alt="Screen Shot 2022-10-24 at 12 32 00 PM" src="https://user-images.githubusercontent.com/72960473/204120503-6a7e4202-a22a-4673-8f3e-98781730e610.png">
 
+<img width="700" alt="Screen Shot 2022-11-26 at 9 25 38 PM" src="https://user-images.githubusercontent.com/72960473/204120656-361e7e46-c1e1-4cd5-8b57-58730ffc00c1.png">
